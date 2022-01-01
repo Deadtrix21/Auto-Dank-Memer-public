@@ -1,6 +1,6 @@
 # Auto-Dank-Memer-public
 Just run the setup.py
-```
+```python
 python setup.py
 
 Then
